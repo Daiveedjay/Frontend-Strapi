@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "Title": "The Rise of Tennis in 2023",
+        "Author": "Serena Williams",
+        "Date": "2023-10-01",
+        "Category": "Sports"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "Title": "The Golden Age of Hollywood",
+        "Author": "Leonardo DiCaprio",
+        "Date": "2023-10-02",
+        "Category": "Entertainment"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "Title": "The Evolution of Pop Music",
+        "Author": "Taylor Swift",
+        "Date": "2023-10-03",
+        "Category": "Music"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "Title": "Exploring the Hidden Gems of Europe",
+        "Author": "Rick Steves",
+        "Date": "2023-10-04",
+        "Category": "Travel"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "Title": "The Benefits of a Balanced Diet",
+        "Author": "Dr. Mehmet Oz",
+        "Date": "2023-10-05",
+        "Category": "Health"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "Title": "The Current State of Global Politics",
+        "Author": "Angela Merkel",
+        "Date": "2023-10-06",
+        "Category": "Politics"
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "Title": "Football's Most Memorable Moments",
+        "Author": "Cristiano Ronaldo",
+        "Date": "2023-10-07",
+        "Category": "Sports"
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "Title": "The Impact of Streaming on Cinema",
+        "Author": "Brie Larson",
+        "Date": "2023-10-08",
+        "Category": "Entertainment"
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "Title": "The Jazz Revival of the 2020s",
+        "Author": "Norah Jones",
+        "Date": "2023-10-09",
+        "Category": "Music"
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "Title": "The Best Beaches to Visit in 2023",
+        "Author": "Anthony Bourdain",
+        "Date": "2023-10-10",
+        "Category": "Travel"
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "Title": "Mental Health in the Modern Age",
+        "Author": "Dr. Phil McGraw",
+        "Date": "2023-10-11",
+        "Category": "Health"
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "Title": "The Role of Technology in Politics",
+        "Author": "Elon Musk",
+        "Date": "2023-10-12",
+        "Category": "Politics"
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "Title": "The Future of eSports Competitions",
+        "Author": "Ninja",
+        "Date": "2023-10-13",
+        "Category": "Sports"
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "Title": "The Rise of Indie Films in 2023",
+        "Author": "Greta Gerwig",
+        "Date": "2023-10-14",
+        "Category": "Entertainment"
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "Title": "The Resurgence of Rock Music",
+        "Author": "Dave Grohl",
+        "Date": "2023-10-15",
+        "Category": "Music"
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "Title": "Discovering Ancient Civilizations",
+        "Author": "Indiana Jones",
+        "Date": "2023-10-16",
+        "Category": "Travel"
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "Title": "The Science Behind Yoga and Meditation",
+        "Author": "Deepak Chopra",
+        "Date": "2023-10-17",
+        "Category": "Health"
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "Title": "The Impact of Social Media on Politics",
+        "Author": "Mark Zuckerberg",
+        "Date": "2023-10-18",
+        "Category": "Politics"
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "Title": "The Olympics: Behind the Scenes",
+        "Author": "Usain Bolt",
+        "Date": "2023-10-19",
+        "Category": "Sports"
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "Title": "The Role of VR in Modern Cinema",
+        "Author": "Steven Spielberg",
+        "Date": "2023-10-20",
+        "Category": "Entertainment"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 20,
+      "page": 1,
+      "pageSize": 5
+    }
+  }
+}
